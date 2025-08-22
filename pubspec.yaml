@@ -1,6 +1,6 @@
 name: flutter_video_compressor
 description: A Flutter plugin that provides video, image, and audio compression capabilities using native compression algorithms from the React Native Compressor library.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/turanoz/flutter_video_compressor
 repository: https://github.com/turanoz/flutter_video_compressor
 issue_tracker: https://github.com/turanoz/flutter_video_compressor/issues

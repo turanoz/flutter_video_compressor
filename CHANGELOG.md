@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - 2024-12-19
+## [1.0.0] - 2025-08-22
 
 ### Added
 - Initial release of Flutter Video Compressor plugin
@@ -30,3 +30,8 @@
 - Android: API level 21+ (Android 5.0+)
 - iOS: iOS 12.0+
 - Wraps React Native Compressor native algorithms
+
+## [1.0.1] - 2025-08-22
+
+### Fixed
+- GitHub repository URL updated in documentation
